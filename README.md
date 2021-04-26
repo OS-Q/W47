@@ -1,14 +1,11 @@
-# [B51](https://github.com/OS-Q/B51)
+﻿# [B51 Template](https://github.com/OS-Q/B51)
 
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-[B51](https://github.com/OS-Q/B51) 板级支持 [P51](https://github.com/OS-Q/P51)
+[![Build Status](https://github.com/OS-Q/B51/workflows/CI/badge.svg)](https://github.com/OS-Q/B51/actions/workflows/CI.yml)
 
-### 板级工程
+### [简介](https://github.com/OS-Q/B51/wiki)
 
-* [B51A](https://github.com/OS-Q/B51A)
-* [B51B](https://github.com/OS-Q/B51B)
-* [B51C](https://github.com/OS-Q/B51C)
-* [B51D](https://github.com/OS-Q/B51D)
+[B51](https://github.com/OS-Q/B51) 用于执行工程模板任务，检查、编译和发布
 
-
-### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)
+### [源圈 OS-Q (Open Source & QA) ](http://www.OS-Q.com)
