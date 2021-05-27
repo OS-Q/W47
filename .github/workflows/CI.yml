@@ -54,7 +54,6 @@ jobs:
           gmake testsuite
 
       - name: vector test
-        working-directory: src/sboot
         run: |
           build/cipher_test
 
